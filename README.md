@@ -13,7 +13,7 @@ A simple programming quiz application built with HTML, CSS, and JavaScript.
 ## 🛠 Technologies Used
 - HTML
 - CSS
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ## 🚀 How It Works
 1. User answers a question
